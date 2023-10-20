@@ -1,8 +1,6 @@
 <h1 align = "center">Hi there 👋, I'm Asad Sarfaraz</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asad474&label=Profile%20views&color=0e75b6&style=flat" alt="Asad474" /> </p>
-
 - 💬 Ask me about ***Nodejs, Django, Reactjs, Web Development, C++.***
 - 📫 How to reach me ***asadsarfraz474@gmail.com***
 
