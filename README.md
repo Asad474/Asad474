@@ -17,4 +17,3 @@
 
 # 📊 Github Stats
 [![Asad474's GitHub | Stats](https://stats.quine.sh/Asad474/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asad474)
-![stats](https://github-readme-stats.vercel.app/api?username=Asad474&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
