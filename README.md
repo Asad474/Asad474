@@ -17,16 +17,27 @@
 
 # 📊 Github Stats
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad474&layout=compact&langs_count=16&theme=vision-friendly-dark"/> 
-[![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asad474)](https://github.com/Asad474/github-readme-stats)
 
-  <picture>
-      <source
-        srcset="https://streak-stats.demolab.com/?user=Asad474&theme=highcontrast"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com/?user=Asad474"
-        media="(prefers-color-scheme: light)"
-      />
-      <img src="https://streak-stats.demolab.com/?user=Asad474" />
-  </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true" />
+</picture>
+
+ <picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=highcontrast"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=Asad474"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://streak-stats.demolab.com/?user=Asad474" />
+</picture>
