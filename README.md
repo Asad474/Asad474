@@ -17,6 +17,7 @@
 
 # 📊 Github Stats
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad474&layout=compact&langs_count=16&theme=vision-friendly-dark"/> 
+[![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asad474)](https://github.com/Asad474/github-readme-stats)
 
   <picture>
       <source
