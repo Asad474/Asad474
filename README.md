@@ -24,7 +24,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true&theme=dark"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true" />
@@ -32,11 +32,11 @@
 
  <picture>
     <source
-      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=highcontrast"
+      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com/?user=Asad474"
+      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=dark"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://streak-stats.demolab.com/?user=Asad474" />
