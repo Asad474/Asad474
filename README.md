@@ -1,7 +1,8 @@
 <h1 align = "center">Hi there 👋, I'm Asad Sarfaraz</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-- 💬 Ask me about ***Nodejs, Django, Reactjs, Web Development, C++.***
+- 💬 Ask me about ***MERN Stack, Python, Typescript, Next.js, Web Development, C++.***
+- 🌱 Currently learning ***Golang***
 - 📫 How to reach me ***asadsarfraz474@gmail.com***
 
 <h1 align="left">Connect with me:</h1>
