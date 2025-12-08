@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 
 - 💬 Ask me about ***MERN Stack, Python, Typescript, Next.js, Web Development, C++.***
-- 🌱 Currently learning ***Golang***
+- 🌱 Currently learning ***System Design*** and ***Golang***
 - 📫 How to reach me ***asadsarfraz474@gmail.com***
 
 <h1 align="left">Connect with me:</h1>
@@ -53,33 +53,8 @@
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900) 
 ![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
-
-# 📊 Github Stats
-<img align="center" height="250" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad474&layout=compact&langs_count=16&theme=vision-friendly-dark"/> 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true" />
-</picture>
-
- <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=Asad474&theme=dark"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=Asad474" />
-</picture>
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSIyIiBmaWxsPSIjMDAwMDAwIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjNlbSI+QnVsbE1RPC90ZXh0Pjwvc3ZnPg==)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Asad474&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
