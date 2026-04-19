@@ -1,60 +1,104 @@
-<h1 align = "center">Hi there 👋, I'm Asad Sarfaraz</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Asad Sarfaraz</h1>
+<h3 align="center">🚀 Backend-Focused Full Stack Developer | MERN | Next.js | Python</h3>
 
-- 💬 Ask me about ***MERN Stack, Python, Typescript, Next.js, Web Development, C++.***
-- 🌱 Currently learning ***System Design*** and ***Golang***
-- 📫 How to reach me ***asadsarfraz474@gmail.com***
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/asad-sarfaraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad-sarfaraz-4384a8230" height="30" width="40" /></a>
-<a href="https://www.instagram.com/asad__sarfaraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asad__sarfaraz" height="30" width="40" /></a>
-<a href="https://leetcode.com/Asad474/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asad474" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asadsarfraz474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asadsarfraz474" height="30" width="40" /></a>  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Asad474&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge) 
-![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white&style=for-the-badge) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss) 
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white&style=for-the-badge) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Jest](https://img.shields.io/badge/Jest-323330?logo=jest&logoColor=white&style=for-the-badge) 
-![Supertest](https://img.shields.io/badge/Supertest-FF0000?logo=supertest&logoColor=white&style=for-the-badge) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) 
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900) 
-![Clickhouse](https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSIyIiBmaWxsPSIjMDAwMDAwIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjNlbSI+QnVsbE1RPC90ZXh0Pjwvc3ZnPg==)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asad474&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+## 🌐 Connect with Me
+<p align="left">
+<a href="mailto:asadsarfraz474@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="32"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/asad-sarfaraz/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/Asad474/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32"/>
+</a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/asadsarfraz474" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32"/>
+</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- Backend-focused developer building **scalable and reliable systems**
+- Interested in **system design, event-driven architecture, and performance optimization**
+- Experience with **message queues for background jobs & workflows**
+- Solved **250+ DSA problems**
+- Exploring **Golang & distributed systems**
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask)
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+
+### 🗄️ Database & ORM  
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+### ☁️ Cloud & Messaging  
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure Blob](https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-FF6F00?style=for-the-badge)
+
+### 🧪 Testing & API  
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest)
+![Supertest](https://img.shields.io/badge/Supertest-FF0000?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+
+---
+
+## 🚀 What I Build
+- 🔧 Backend systems with **clean architecture**
+- ⚡ Event-driven systems using **message queues**
+- 📊 Reliable REST APIs with validation & logging
+- ☁️ Cloud-based storage integrations
+- 🧪 Tested APIs with **Jest & Supertest**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad474&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad474&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad474&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I enjoy building scalable systems and solving real-world backend problems 🚀
