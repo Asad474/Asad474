@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Asad474&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
----
+<br/>
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -24,7 +24,7 @@
 </a>
 </p>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 - Backend-focused developer building **scalable and reliable systems**
@@ -33,7 +33,7 @@
 - Solved **250+ DSA problems**
 - Exploring **Golang & distributed systems**
 
----
+<br/>
 
 ## 💻 Tech Stack
 
@@ -77,7 +77,7 @@
 ![Supertest](https://img.shields.io/badge/Supertest-FF0000?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
 
----
+<br/>
 
 ## 🚀 What I Build
 - 🔧 Backend systems with **clean architecture**
@@ -86,7 +86,7 @@
 - ☁️ Cloud-based storage integrations
 - 🧪 Tested APIs with **Jest & Supertest**
 
----
+<br/>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -98,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad474&layout=compact&theme=tokyonight"/>
 </p>
 
----
+<br/>
 
 ## ⚡ Fun Fact
 > I enjoy building scalable systems and solving real-world backend problems 🚀
