@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Asad474&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<br/>
-
 ## 🌐 Connect with Me
 <p align="left">
 <a href="mailto:asadsarfraz474@gmail.com" target="_blank">
